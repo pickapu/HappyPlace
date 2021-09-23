@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
     <style name="CustomNoActionBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
     </style>
     <style name="CustomToolbarStyle">
         <item name="android:textColorPrimary">@color/white</item>
